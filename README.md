@@ -1,6 +1,6 @@
 # IIP_Salient360_2017
 
-This repo has been deprecated. Please see IIP_Salient360_2018.
+This repo has been deprecated. Please see [IIP_Salient360_2018(https://github.com/zhangkao/IIP_Salient360_2018)].
 
 The code is re-implementation code for the challenge and following paper:
 
