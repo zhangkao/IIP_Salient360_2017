@@ -2,20 +2,17 @@
 
 This repo has been deprecated. Please see the new repository: [IIP_Salient360_2018](https://github.com/zhangkao/IIP_Salient360_2018).
 
-The code is re-implementation code for the challenge and following paper:
+It is a re-implementation for the challenge and following paper:
 
-* IEEE ICME Salient360! Grand Challenge: Visual attention modeling for 360 Content - 2017 edition
+* IEEE ICME Salient360! Grand Challenge: Visual attention modeling for 360 Content - 2017 edition <br />
 https://salient360.ls2n.fr
 
 * Jing Ling, Kao Zhang, Yingxue Zhang, Daiqin Yang, Zhenzhong Chen. A saliency prediction model on 360 degree images using color dictionary based sparse representation. Signal Processing: Image Communication (SPIC), vol. 69, pp. 60-68, 2017.
-
-
 
 ## Paper & Citation
 
 If you use the KSVD model, please cite the following paper: 
 ```
-
 @article{ling2018saliency,
   title={A saliency prediction model on 360 degree images using color dictionary based sparse representation},
   author={Ling, Jing and Zhang, Kao and Zhang, Yingxue and Yang, Daiqin and Chen, Zhenzhong},
@@ -25,7 +22,6 @@ If you use the KSVD model, please cite the following paper:
   year={2018},
   publisher={Elsevier}
 }
-
 ```
 
 
