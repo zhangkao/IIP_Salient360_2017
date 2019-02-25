@@ -11,7 +11,7 @@ https://salient360.ls2n.fr
 
 ## Paper & Citation
 
-If you use the TwoS video saliency model, please cite the following paper: 
+If you use the KSVD model, please cite the following paper: 
 ```
 
 @article{ling2018saliency,
